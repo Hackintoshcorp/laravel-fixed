@@ -11,9 +11,12 @@
 <p>user: admin@admin.com</br>
 password: password</p>
 
+<h4>Run VITE:</h4>
+<p>npm run dev</p>
+
 <h4>Movie and schedule CRUD testing</h4>
 
-<p>php artisan test</p></br>
+<p>php artisan test</p>
 
 <h3>A few MAIN things can be found at:</h3>
 
