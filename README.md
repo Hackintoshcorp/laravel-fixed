@@ -1,10 +1,10 @@
 <h3>Setup:</h3></br>
 
 <h4>Get necessary files:</h4>
-<p>composer install && npm ci</p></br>
+<p>composer install && npm ci</p>
 
 <h4>Database creation and seeding:</h4>
-<p>php artisan migrate && php artisan db:seed --class=UsersTableSeeder && php artisan db:seed --class=MoviesTableSeeder</p></br>
+<p>php artisan migrate && php artisan db:seed --class=UsersTableSeeder && php artisan db:seed --class=MoviesTableSeeder</p>
 
 <h4>Default login:</h4>
 
@@ -15,7 +15,7 @@ password: password</p>
 
 <p>php artisan test</p></br>
 
-<strong>A few MAIN things can be found at:</strong>
+<h3>A few MAIN things can be found at:</h3>
 
 <h4>JS was added an implemented in:</h4>
 <p>itsolutions/resources/views/layouts/app.blade.php</br></p>
