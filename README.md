@@ -1,6 +1,6 @@
 <h3>Setup:</h3>
 
-<h4>You will have to create a folder public at:</h4>
+<h4>You will have to create a folder named 'public' at:</h4>
 <p>itsolutions/storage/app/</p>
 
 <h4>Get necessary files:</h4>
