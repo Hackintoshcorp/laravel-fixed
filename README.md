@@ -27,7 +27,7 @@ password: password</p>
 <p>itsolutions/resources/js</br></p>
 
 <h4>HTML code can be found:</h4>
-<p>itsolutions/resources/views/components/main.blade.php</br></p>
+<p>itsolutions/resources/views/dashboard.blade.php</br></p>
 
 <h4>Routes can be changed at:</h4>
 <p>itsolutions/routes/web.php</br></p>
