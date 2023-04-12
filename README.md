@@ -1,4 +1,4 @@
-<h3>Setup:</h3></br>
+<h3>Setup:</h3>
 
 <h4>Get necessary files:</h4>
 <p>composer install && npm ci</p>
