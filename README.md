@@ -1,15 +1,15 @@
 <h3>Setup:</h3></br>
 
-<strong>Get necessary files: </strong></br>
+<h4>Get necessary files:</h4>
 <p>composer install && npm ci</p></br>
 
-<strong>Database creation and seeding:</strong></br>
+<h4>Database creation and seeding:</h4>
 <p>php artisan migrate && php artisan db:seed --class=UsersTableSeeder && php artisan db:seed --class=MoviesTableSeeder</p></br>
 
-<strong>Default login:</strong></br>
+<h4>Default login:</h4>
 
 <p>user: admin@admin.com</br>
-password: password</p></br>
+password: password</p>
 
 <h4>Movie and schedule CRUD testing</h4>
 
