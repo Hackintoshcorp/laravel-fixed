@@ -17,28 +17,28 @@ Movie and schedule CRUD testing
 
 <strong>A few MAIN things can be found at:</strong>
 <p>
-JS was added an implemented in :</br>
+<h6>JS was added an implemented in:</h6></br>
 itsolutions/resources/views/layouts/app.blade.php</br>
 
-JS itself is located at folder:</br>
+<h6>JS itself is located at folder:</h6></br>
 itsolutions/resources/js</br>
 
-HTML code can be found:</br>
+<h6>HTML code can be found:</h6></br>
 itsolutions/resources/views/components/main.blade.php </br> 
 
-Routes can be changed at </br>
+<h6>Routes can be changed at:</h6></br>
 itsolutions/routes/web.php</br>
 
-Demo pictures located at:</br>
+<h6>Demo pictures located at:</h6></br>
 itsolutions/demo_images/</br>
 
-Pictures are stored at:</br>
+<h6>Pictures are stored at:</h6></br>
 itsolutions/storage/app/public</br>
 
-DB settings and other settings can be found at:</br>
+<h6>DB settings and other settings can be found at:</h6></br>
 itsolutions/.env</br>
 
-Notification send STUFF to email:</br>
+<h6>Notification send STUFF to email:</h6></br>
 itsolutions/app/Mail/MovieScheduleEmail.php</br>
 itsolutions/app/Console/Commands/SendDailyMovieSchedule.php</br>
 itsolutions/resources/views/emails/movie-list.blade.php</br>
