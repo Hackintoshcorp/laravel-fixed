@@ -1,5 +1,4 @@
 <h3>Database creation and seeding:</h3></br>
-
 <strong>php artisan migrate && php artisan db:seed --class=UsersTableSeeder && php artisan db:seed --class=MoviesTableSeeder</strong>
 </br>
 
